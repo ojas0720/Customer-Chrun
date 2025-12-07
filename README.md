@@ -516,11 +516,3 @@ When adding new features:
 3. Add property-based tests for universal properties
 4. Update relevant documentation
 5. Run all tests before committing
-
-## License
-
-[Add your license information here]
-
-## Contact
-
-[Add contact information here]
